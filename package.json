@@ -1,0 +1,18 @@
+{
+  "name": "npr-one-test",
+  "version": "1.0.0",
+  "description": "Testing 'Now playing' npr-one feature ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose A. Villarreal",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "nconf": "^0.8.4",
+    "npr-api": "^2.0.1",
+    "npr-one-sdk": "^1.4.0",
+    "path": "^0.12.7"
+  }
+}

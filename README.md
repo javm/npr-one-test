@@ -21,9 +21,10 @@ Usage
 - Configuration
 1. Open your favorite editor and write the .env file defining the
 following variables:
+```
 CLIENT_ID=your_app_client_id
 CLIENT_SECRET=your_app_client_secret
-
+```
 2. Run the get-token.js script:
 ```
 node get-token.js

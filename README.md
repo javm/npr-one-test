@@ -31,8 +31,9 @@ node get-token.js
 ```
 to get the device access token
 and define it in .env the var ACCESS_TOKEN with what you got:
+```
 ACCESS_TOKEN=your_access_token
-
+```
 -  Start:
 ```
 npm install
